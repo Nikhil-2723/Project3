@@ -1,7 +1,9 @@
 # Smart Contract Project
 This cricket match contract program tells about the scheduliung and injuries of matches using require(), assert() and revert() statements techniques.
 ## Description
-    This program is a simple contract for cricket matches, providing the details of match scheduling and injuries during the match. It contains three functions that is "Match" 
+
+This program is a simple contract for cricket matches, providing the details of match scheduling and injuries during the match. It contains three functions that is "Match" 
+
 ## Getting Started
 ### Executing program
        
