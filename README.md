@@ -2,7 +2,11 @@
 This cricket match contract program tells about the scheduliung and injuries of matches using require(), assert() and revert() statements techniques.
 ## Description
 
-This program is a simple contract for cricket matches, providing the details of match scheduling and injuries during the match, getting the results accordingly. It contains four functions that are Match, CancelledMatch, getCal, InjuryHappened.
+This program is a simple contract for cricket matches, providing the details of match scheduling and injuries during the match, getting the results accordingly. It contains four functions that are-
+"Match" that is responsible for the finalCall value using assert statement means if there will be a match then the finalCall value will get incremented by 3 and if not then it will remain the same and print one message too along with the calling of Matchtoday(public variable) using require technique. 
+"CancelledMatch" is responsible for reverting the match schedule using Matchtoday variable.
+"getCal" for returning finalCall value.
+"InjuryHappened" for returning the result of the Medical variable if it is needed or not using revert technique.
 
 ## Getting Started
 ### Executing program
