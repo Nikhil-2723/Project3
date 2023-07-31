@@ -11,7 +11,7 @@ This program is a simple contract for cricket matches, providing the details of 
  // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
-contract Errorhandling {
+contract Cricketmatch {
     bool public Matchtoday = true;
     bool public Medical = false;
     uint finalCall = 0;
