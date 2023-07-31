@@ -36,8 +36,7 @@ contract Errorhandling {
 }
 ```
 ## Authors
-Metacrafter Chris  
-[@metacraftersio](https://twitter.com/metacraftersio)
+Nikhil Upadhyay
 
 ## License
 This project is licensed under the MIT License
