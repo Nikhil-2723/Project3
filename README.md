@@ -2,7 +2,7 @@
 This cricket match contract program tells about the scheduliung and injuries of matches using require(), assert() and revert() statements techniques.
 ## Description
 
-This program is a simple contract for cricket matches, providing the details of match scheduling and injuries during the match. It contains three functions that is "Match" 
+This program is a simple contract for cricket matches, providing the details of match scheduling and injuries during the match, getting the results accordingly. It contains four functions that are Match, CancelledMatch, getCal, InjuryHappened.
 
 ## Getting Started
 ### Executing program
